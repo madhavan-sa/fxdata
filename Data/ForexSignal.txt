@@ -1,0 +1,2 @@
+Day,NZDJPY(8),CB,Sell,Ramesh,09-Nov
+Day,CADCHF,DD,SB,Ramesh,11-Nov
